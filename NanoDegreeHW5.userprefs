@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="NanoDegreeHW5.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Project\Script\Navigation.cs">
+    <Files>
+      <File FileName="Assets\Project\Script\Navigation.cs" Line="25" Column="82" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\UnityProjects\NanoDegreeHW5\Assets\Project\Script\ScaleToRealWorld.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

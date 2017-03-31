@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanoDegreeHW5", "NanoDegreeHW5.csproj", "{A5624A8E-CABD-C3AC-B7B2-2DDD8F2A46D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanoDegreeHW5.Editor", "NanoDegreeHW5.Editor.csproj", "{A3DB26B1-587C-F560-81B2-61AA5244C359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5624A8E-CABD-C3AC-B7B2-2DDD8F2A46D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5624A8E-CABD-C3AC-B7B2-2DDD8F2A46D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5624A8E-CABD-C3AC-B7B2-2DDD8F2A46D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5624A8E-CABD-C3AC-B7B2-2DDD8F2A46D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DB26B1-587C-F560-81B2-61AA5244C359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DB26B1-587C-F560-81B2-61AA5244C359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DB26B1-587C-F560-81B2-61AA5244C359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DB26B1-587C-F560-81B2-61AA5244C359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
